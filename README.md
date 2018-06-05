@@ -11,6 +11,7 @@ Current Collection:
 - [A (small) Collection of proofs based on infinitely many primes of various forms.](https://github.com/mattyuen918/mathematics/blob/master/Infinitely%20Many%20Primes.ipynb)
 - [Bokeh](https://github.com/mattyuen918/mathematics/blob/master/bokeh.ipynb) --> Documentation Project I wrote for a mathematical computation class
 - [Bokeh Exercises](https://github.com/mattyuen918/mathematics/blob/master/bokeh%2Bexercises.ipynb) --> Supplementary Material to documentation project
+- [Circular Primes](https://github.com/mattyuen918/mathematics/blob/master/Circular%20Primes%20.ipynb) - A project examining the phenomenon of Circular Prime Numbers 
 - [Gabriel's Horn](https://github.com/mattyuen918/mathematics/blob/master/Finite%20Volume%20Infinite%20Surface%20Area%20.ipynb), an example where an object can have finite volume but infinite surface area (CALC IV) 
 - [Quadratic Sieve Questions](https://github.com/mattyuen918/mathematics/blob/master/Quadratic%20Sieve.ipynb)
 - [Plotting graphs using Matplotlib](https://github.com/mattyuen918/mathematics/blob/master/Matplotlib%20Functions%20.ipynb) (2D and 3D) 
