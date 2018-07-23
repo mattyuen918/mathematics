@@ -9,6 +9,7 @@ Current Collection:
 - [A Collection of Theorems used in Introductory Number Theory](https://github.com/mattyuen918/mathematics/blob/master/NBT_Important%20Theorems.ipynb).
 - [A Collection of Theorems used in CALC IV](https://github.com/mattyuen918/mathematics/blob/master/MATH%20317%20Equations%20.ipynb).
 - [A (small) Collection of proofs based on infinitely many primes of various forms.](https://github.com/mattyuen918/mathematics/blob/master/Infinitely%20Many%20Primes.ipynb).
+- [A Collection of Approximations For Pi](https://github.com/mattyuen918/mathematics/blob/master/Pi%20Approximation%20.ipynb) --> This notebook highlights various approximations for Pi including Archimedes' Approximation, Madhava-Leibniz Series and Wallis Product. 
 - [Bokeh](https://github.com/mattyuen918/mathematics/blob/master/bokeh.ipynb) --> Documentation Project I wrote for a mathematical computation class.
 - [Bokeh Exercises](https://github.com/mattyuen918/mathematics/blob/master/bokeh%2Bexercises.ipynb) --> Supplementary Material to documentation project.
 - [Calculating Square Roots by hand](https://github.com/mattyuen918/mathematics/blob/master/Calculating%20Square%20Root%20by%20Hand%20.ipynb): A simple algorithm.
