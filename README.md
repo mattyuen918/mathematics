@@ -20,6 +20,7 @@ Current Collection:
 - [Plotting graphs using Matplotlib](https://github.com/mattyuen918/mathematics/blob/master/Matplotlib%20Functions%20.ipynb) (2D and 3D). 
 - [Properties of the Number 1](https://github.com/mattyuen918/mathematics/blob/master/Properties%20of%20the%20Number%201%20.ipynb): A Project examining the Number 1 in Fibonacci Numbers, Bell Numbers, Catalan Numbers, and Sports. 
 - [Slope Field Example](https://github.com/mattyuen918/mathematics/blob/master/Slope%20Fields.ipynb): An example plotting slope field from a very simple First Order ODE Equation. 
+- [Small Angle Approximations](https://github.com/mattyuen918/mathematics/blob/master/Small-Angle%20Approximations%20.ipynb): A project examining small angle trigonomic function approximations. 
 - [The Bailey-Borwein-Plouffe Formula](https://github.com/mattyuen918/mathematics/blob/master/The%20Bailey-Borwein-Plouffe%20formula.ipynb), which calculates any digit of pi in base 16. 
 
 
