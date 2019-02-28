@@ -23,5 +23,5 @@ Current Collection:
 - [Slope Field Example](https://github.com/mattyuen918/mathematics/blob/master/Slope%20Fields.ipynb): An example plotting slope field from a very simple First Order ODE Equation. 
 - [Small Angle Approximations](https://github.com/mattyuen918/mathematics/blob/master/Small-Angle%20Approximations%20.ipynb): A project examining small angle trigonomic function approximations. 
 - [The Bailey-Borwein-Plouffe Formula](https://github.com/mattyuen918/mathematics/blob/master/The%20Bailey-Borwein-Plouffe%20formula.ipynb), which calculates any digit of pi in base 16. 
-
+-[USLE](https://github.com/mattyuen918/mathematics/tree/master/USLE), this is a folder containing information on the Universal Soil Loss Equation and Revised Universal Soil Loss Equation. 
 
