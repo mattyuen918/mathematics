@@ -11,6 +11,7 @@ Current Collection:
 - [A (small) Collection of proofs based on infinitely many primes of various forms.](https://github.com/mattyuen918/mathematics/blob/master/Infinitely%20Many%20Primes.ipynb).
 - [A Collection of Approximations For Pi](https://github.com/mattyuen918/mathematics/blob/master/Pi%20Approximation%20.ipynb) --> This notebook highlights various approximations for Pi including Archimedes' Approximation, Madhava-Leibniz Series and Wallis Product. 
 - [A Collection of Mathematical Proof Theorems and Definitions](https://github.com/mattyuen918/mathematics/blob/master/math220Definitions.pdf) 
+- [A Collection of Random Variables Review](https://github.com/mattyuen918/mathematics/blob/master/Probability%20Review.ipynb) 
 - [Bokeh](https://github.com/mattyuen918/mathematics/blob/master/bokeh.ipynb) --> Documentation Project I wrote for a mathematical computation class.
 - [Bokeh Exercises](https://github.com/mattyuen918/mathematics/blob/master/bokeh%2Bexercises.ipynb) --> Supplementary Material to documentation project.
 - [Calculating Square Roots by hand](https://github.com/mattyuen918/mathematics/blob/master/Calculating%20Square%20Root%20by%20Hand%20.ipynb): A simple algorithm.
